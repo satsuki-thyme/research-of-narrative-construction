@@ -1,0 +1,13 @@
+[data]
+title = ""
+ISBN = ""
+
+[[memo]]
+num = !
+date = !
+page_start = !
+page_end = !
+target = """\
+"""
+opinion = """\
+"""
