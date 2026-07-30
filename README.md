@@ -6,9 +6,6 @@
 
 - technique-notes.toml: 技術ノート
 
-### 研究ノート
-
-
 ### 読書ノート
 
 - reading-notes/rea-000.toml: テンプレート
