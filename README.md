@@ -16,6 +16,10 @@
 - knowledge-notes/knN-001.md: 転換点
 - knowledge-notes/knN-002.md: カタルシス
 
+## メモ
+
+- memo/mem-001.md: 情報設計
+
 ## アイデアノート
 
 - idea-notes/ide-001.md: カタルシスとは何か
